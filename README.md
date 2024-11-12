@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - My arears of interest include Natural Language Processing, Social Response AI, Code Generation, RAG and PEFT.
 - I am seeking opportunities for a Research Assistantship or PhD position in the filed of Natural Language Processing.
 
-📫 [Email](mailto:wenkail@cs.cmu.edu) | [LinkedIn](https://www.linkedin.com/in/wenkai-li) | [Webpage](https://wenkai-li.github.io/)
+📫 [Email](mailto:wenkail@cs.cmu.edu) | [LinkedIn](https://www.linkedin.com/in/wenkai-li) | [Webpage](https://wenkai-li.github.io/) | [Resume](https://wenkaili.com/resume/)
