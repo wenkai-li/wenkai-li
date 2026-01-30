@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am currently pursuing a Master's degree in LTI at the Carnegie Mellon University.
-- My arears of interest include Natural Language Processing, Social Response AI, Code Generation, RAG and PEFT.
+- My arears of interest include NLP, social response AI, social learning, AI Safety, reasoning and continue learning
 - I am seeking opportunities for a Research Assistantship or PhD position in the filed of Natural Language Processing.
 
 📫 [Email](mailto:wenkail@cs.cmu.edu) | [LinkedIn](https://www.linkedin.com/in/wenkai-li) | [Webpage](https://wenkai-li.github.io/) | [Resume](https://wenkaili.com/resume/)
