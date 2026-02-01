@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - My arears of interest include NLP, social response AI, social learning, AI Safety, reasoning and continue learning
 - I am seeking opportunities for a Research Assistantship or PhD position in the filed of Natural Language Processing.
 
-📫 [Email](mailto:wenkail@cs.cmu.edu) | [LinkedIn](https://www.linkedin.com/in/wenkai-li) | [Webpage](https://wenkai-li.github.io/) | [Resume](https://wenkaili.com/resume/)
+📫 [Email](mailto:wenkail@cs.cmu.edu) | [LinkedIn](https://www.linkedin.com/in/wenkai-li) | [Webpage](https://wenkai-li.github.io/)
